@@ -1,5 +1,0 @@
-CSS
-.test { width: 500px; height: 200px; color: #fff;background-color: #008000; text-align: justify; padding: 1em 1em 0.25em; border: 3px solid red; margin: 5px ; overflow-y: scroll;}
-.p {
-  hyphens: auto;
-} 
